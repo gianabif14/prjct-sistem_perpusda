@@ -258,7 +258,7 @@ int main()
                 }while (!passBenar);
         }
 
-        if (menu_awal == 2)
+        if (menu_awal == '2')
         {
             do
             {
@@ -653,7 +653,7 @@ int main()
             } while (keluar == 'n' || keluar == 'N');
         }
 
-        if (menu_awal == 3)
+        if (menu_awal == '3')
         {
             system("cls");
             cout << "Program Dihentikan" << endl;
